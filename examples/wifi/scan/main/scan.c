@@ -11,6 +11,7 @@
     This example shows how to scan for available set of APs.
 */
 #include <string.h>
+/* need to know the use of string.h header in the code */
 #include "freertos/FreeRTOS.h"
 #include "freertos/event_groups.h"
 #include "esp_wifi.h"
